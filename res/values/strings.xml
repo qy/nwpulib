@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">工大查书</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search">查 询</string>
+    <string name="hint">请输入书名</string>
+    <string name="about">关于</string>
+    <string name="searching">正在查询</string>
+    <string name="pleasewait">请稍候</string>
+    <string name="borrowable">可借</string>
+    <string name="in_library">馆藏</string>
+    <string name="about_info">献给学校新图书馆和所有爱书的同学\n---\n作者: qiuying@mail.nwpu.edu.cn\n西北工业大学计算机学院，2013.05</string>
+    <string name="ok">确定</string>
+    <string name="all_loaded">已全部载入</string>
+
+</resources>
